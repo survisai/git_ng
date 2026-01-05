@@ -1,0 +1,2 @@
+host cmd :- npx angular-cli-ghpages --dir=dist/git_ng/browser --no-silent
+build cmd :- ng build --configuration production --base-href /git-ng/
